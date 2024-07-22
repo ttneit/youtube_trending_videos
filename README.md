@@ -19,3 +19,7 @@ This project is designed to pull the trending YouTube videos from the Google You
 - Python 3.x
 - Apache Airflow in Docker : [Airflow Setup](./dags/README.md)
 
+
+# Dashboard 
+
+![Q1_price](./Dashboards/img/dash.png)
